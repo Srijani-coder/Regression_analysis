@@ -1,7 +1,7 @@
 This repository describes the journey of linear regression and logistic regression . 
-For the analysis with datasets:
+For the analysis with datasets:</br></br>
 
-Exploratory data analysis(EDA)
-Multiple linear regression model
-Logistic regression model
-Evaluation metrics:Recall, Precision, Confusion matrix, Accuracy scores
+Exploratory data analysis(EDA)</br>
+Multiple linear regression model</br>
+Logistic regression model</br>
+Evaluation metrics:Recall, Precision, Confusion matrix, Accuracy scores</br>
